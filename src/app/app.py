@@ -1,2 +1,2 @@
-# Web App using Streamlit
-# https://share.streamlit.io/
+# Web App using Gradio
+# https://www.gradio.app/
